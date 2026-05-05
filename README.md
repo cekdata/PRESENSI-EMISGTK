@@ -1,0 +1,2 @@
+# presensiemisgtk
+ABSENSI GURU SERTIFIKASI DAN INPASING
